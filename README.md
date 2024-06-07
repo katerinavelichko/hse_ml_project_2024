@@ -7,9 +7,8 @@
 
 ## Проект разделён на несколько разделов:
 
-footbal.ipynb
-
-football_data - датасет
+- footbal.ipynb - блокнот с обучением моделей
+- football_data - датасет
 
 ## Датасет:
 
