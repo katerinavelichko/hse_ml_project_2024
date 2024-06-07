@@ -2,7 +2,7 @@
 
 # Ссылка на презентацию:
 
-[Презентация]()
+[Презентация](https://docs.google.com/presentation/d/14ZzcT2vcmwYH8EPoBoim3RhET-TUa5wYsXwnS_s6WgY/edit?usp=sharing)
 
 
 ## Проект разделён на несколько разделов:
